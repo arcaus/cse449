@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1XNXMyQzhcInD1yFkwHQYoJ73-skySMm7/edit?usp=sharing&ouid=103425054817588923246&rtpof=true&sd=true
 
 Paper title:
 A Fog-Based Security Framework for Large-Scale Industrial Internet of Things Environments
